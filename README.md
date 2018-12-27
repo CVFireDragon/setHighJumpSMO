@@ -3,4 +3,5 @@ A Super Mario Odyssey ExeFS Mod that Makes your Jumps and such go Much Higher. (
 
 # Credits
 [Spx](https://twitter.com/spx01_) For teaching me ExeFS mods and IDA
-[shibboleet](shibboleet#1010) For helping me with a few things
+
+shibboleet For helping me with a few things
