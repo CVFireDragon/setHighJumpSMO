@@ -1,0 +1,32 @@
+@nsobid-3CA12DFAAF9C82DA064D1698DF79CDA100000000000000000000000000000000
+@flag offset_shift 0x100
+// setJumpGravityCapCatch
+@enabled
+0043CEDC 00102C1E
+// set3rdJumpGravity
+@enabled
+0043D5BC 00102C1E
+// set2ndJumpGravity
+@enabled
+0043D5AC 00102C1E
+// set1stJumpGravity
+@enabled
+0043D45C 00102C1E
+// setSpeedFast
+@enabled
+0043D044 00F0271E
+// setSpinJumpGravity
+@enabled
+0043D9E4 E003271E
+// setLongJumpGravity
+@enabled
+0043D6AC E003271E
+// setSquatJumpGravity
+@enabled
+0043D634 00102C1E
+// setWallJumpGravity
+@enabled
+0043D73C 00102C1E
+// setTurnJumpGravity
+@enabled
+0043D664 00102C1E
